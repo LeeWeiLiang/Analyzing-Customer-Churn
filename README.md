@@ -1,6 +1,8 @@
-Here's a Datacamp Project using PowerBI on the Customer Churn.
+<ins>Datacamp Project</ins> 
+I'll examine a dataset from a hypothetical telecom company named Databel and analyse their churn rates using Power BI. we'll aim to figure out why customers are churning at the rate they are and how to reduce churn.
 # Summary of Insights
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/74aaa4c6-0302-48dc-b8b0-b8b68c92408e">
+
 <ins>Overview tab</ins> 
 
 - California has the highest churn rate of 79% for customers who have month-to-month contract types
