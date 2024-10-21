@@ -1,6 +1,7 @@
 Here's a Datacamp Project using PowerBI on the Customer Churn.
 # Summary of Insights
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/74aaa4c6-0302-48dc-b8b0-b8b68c92408e">
+<ins>Overview tab</ins> 
 
 - California has the highest churn rate of 79% for customers who have month-to-month contract types
 <img width="572" alt="image" src="https://github.com/user-attachments/assets/4120f56e-e2c9-49c0-accd-23d0d453141b">
